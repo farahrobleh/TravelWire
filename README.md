@@ -1,2 +1,2 @@
 # TravelWire
-Real-Time Travel Cost Calculator Application
+Real-Time Travel Cost Calculator
